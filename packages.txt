@@ -1,3 +1,4 @@
-Plaintext
+build-essential
+gcc
 libxml2-dev
 libxslt1-dev
